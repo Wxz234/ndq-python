@@ -1,2 +1,2 @@
 # ndq-python
-A python distribution for ndq.
+A Python distribution for ndq.
